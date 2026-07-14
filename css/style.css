@@ -1,0 +1,13 @@
+:root{
+  --main-bg-color: #111111;
+  --astro-blue: #96CCFF;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
